@@ -1,2 +1,4 @@
 # Fully clickable card
-Exercise: create a card with a call to action. The entire card should be clickable.
+
+## Overview
+A common pattern seen across the web is a card with a button-shaped call to action. Often times, the entire card is clickable, and when clicked, the action is performed. In this exercise, please build out this pattern using the `references/new-orleans-card.png` for design guidelines.
